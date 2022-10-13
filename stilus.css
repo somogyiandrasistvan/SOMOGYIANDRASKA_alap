@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    font-weight: bold;
+}
+.jobb{
+    float: right
+}
+.bal{
+    float: left;
+}
